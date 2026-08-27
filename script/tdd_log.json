@@ -146,9 +146,39 @@
     "testId": 3
   },
   {
-    "commitId": "HEAD",
+    "commitId": "bff182dd4354d261c5842e4af11d328ea28341d3",
     "commitName": "feat: genera fizzbuzz con el numero 5",
     "commitTimestamp": 1787838675604,
     "testId": 3
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 1,
+    "numTotalTests": 7,
+    "timestamp": 1787838884028,
+    "success": false,
+    "testId": 4
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 0,
+    "numTotalTests": 7,
+    "timestamp": 1787838911175,
+    "success": true,
+    "testId": 4
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 0,
+    "numTotalTests": 7,
+    "timestamp": 1787838926462,
+    "success": true,
+    "testId": 4
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: genera fizzbuzz con numeros multiplos de 5",
+    "commitTimestamp": 1787838946478,
+    "testId": 4
   }
 ]
