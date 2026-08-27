@@ -10,10 +10,14 @@ describe("FizzBuzz", () => {
   });
 
   it("deberia retornar fizz con el numero 3", () => {
-    expect(fizzbuzz(3)).toEqual("Fuzz");
+    expect(fizzbuzz(3)).toEqual("Fizz");
   });
 
   it("deberia retornar fizz con un numero multiple de 3", () => {
-    expect(fizzbuzz(9)).toEqual("Fuzz");
+    expect(fizzbuzz(9)).toEqual("Fizz");
+  });
+
+  it("deberia retornar buzz con el numero 5", () => {
+    expect(fizzbuzz(5)).toEqual("Buzz");
   });
 });
