@@ -24,4 +24,8 @@ describe("FizzBuzz", () => {
   it("deberia retornar buzz con numeros multiplos de 5", () => {
     expect(fizzbuzz(25)).toEqual("Buzz");
   });
+
+  it("deberia retornar fizzbuzz con numeros multiplos de 3 y 5", () => {
+    expect(fizzbuzz(45)).toEqual("FizzBuzz");
+  });
 });

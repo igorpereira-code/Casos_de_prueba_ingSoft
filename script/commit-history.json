@@ -76,12 +76,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "5d3d4375a0a810ca5d5cd783c7a22a37f87e92d7",
     "author": "Igorito27",
     "commit": {
       "date": "2026-08-27T13:55:45.000Z",
       "message": "feat: genera fizzbuzz con numeros multiplos de 5",
-      "url": "https://github.com/igorpereira-code/Casos_de_prueba_ingSoft/commit/HEAD"
+      "url": "https://github.com/igorpereira-code/Casos_de_prueba_ingSoft/commit/5d3d4375a0a810ca5d5cd783c7a22a37f87e92d7"
     },
     "stats": {
       "total": 6,
@@ -91,6 +91,25 @@
     },
     "coverage": 100,
     "test_count": 7,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Igorito27",
+    "commit": {
+      "date": "2026-08-27T13:58:02.000Z",
+      "message": "feat: genera fizzbuzz con numeros multiplos de 3 y de 5",
+      "url": "https://github.com/igorpereira-code/Casos_de_prueba_ingSoft/commit/HEAD"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 7,
+      "deletions": 1,
+      "date": "2026-08-27"
+    },
+    "coverage": 100,
+    "test_count": 8,
     "failed_tests": 0,
     "conclusion": "success"
   }
