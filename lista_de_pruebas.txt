@@ -1,0 +1,24 @@
+- Al ingresa un numero lo devuelva
+- Al ingresa el numero 3 o un miltiplo devuelva Fizz
+- Al ingresa el numero 5 o un miltiplo devuelva Fuzz
+- Al ingresa un numero que sea multiplo de 3 y de 5 retorne FizzBuzz
+
+Pruebas
+Ingresa 3 -> "Fizz"
+Ingresa 6 -> "Fizz"
+Ingresa 5 -> "Buzz"
+Ingresa 25 -> "Buzz"
+Ingresa 15 -> "FizzBuzz"
+Ingresa 30-> "FizzBuzz"
+Ingresa 1 -> 1
+Ingresa 2 -> 2
+
+Ordenado de mayor simplicidad
+Ingresa 1 -> 1
+Ingresa 2 -> 2
+Ingresa 3 -> "Fizz"
+Ingresa 6 -> "Fizz"
+Ingresa 5 -> "Buzz"
+Ingresa 25 -> "Buzz"
+Ingresa 15 -> "FizzBuzz"
+Ingresa 30-> "FizzBuzz"

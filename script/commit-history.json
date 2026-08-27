@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "Igorito27",
+    "commit": {
+      "date": "2026-08-27T13:36:11.000Z",
+      "message": "feat: genera el numero fizzbuzz para un numero que no sigue la regla",
+      "url": "https://github.com/igorpereira-code/Casos_de_prueba_ingSoft/commit/HEAD"
+    },
+    "stats": {
+      "total": 58,
+      "additions": 56,
+      "deletions": 2,
+      "date": "2026-08-27"
+    },
+    "coverage": 100,
+    "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
